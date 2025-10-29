@@ -1,0 +1,35 @@
+C:\Users\hoon6\Downloads\GameOverlay.Net-master\source\AntiMotionSickness\obj\Release\AntiMotionSickness.csproj.AssemblyReference.cache
+C:\Users\hoon6\Downloads\GameOverlay.Net-master\source\AntiMotionSickness\obj\Release\AntiMotionSickness.Form1.resources
+C:\Users\hoon6\Downloads\GameOverlay.Net-master\source\AntiMotionSickness\obj\Release\AntiMotionSickness.Properties.Resources.resources
+C:\Users\hoon6\Downloads\GameOverlay.Net-master\source\AntiMotionSickness\obj\Release\AntiMotionSickness.csproj.GenerateResource.cache
+C:\Users\hoon6\Downloads\GameOverlay.Net-master\source\AntiMotionSickness\obj\Release\AntiMotionSickness.csproj.CoreCompileInputs.cache
+C:\Users\hoon6\Downloads\GameOverlay.Net-master\source\AntiMotionSickness\bin\Release\AntiMotionSickness.exe.config
+C:\Users\hoon6\Downloads\GameOverlay.Net-master\source\AntiMotionSickness\bin\Release\AntiMotionSickness.exe
+C:\Users\hoon6\Downloads\GameOverlay.Net-master\source\AntiMotionSickness\bin\Release\AntiMotionSickness.pdb
+C:\Users\hoon6\Downloads\GameOverlay.Net-master\source\AntiMotionSickness\bin\Release\GameOverlay.dll
+C:\Users\hoon6\Downloads\GameOverlay.Net-master\source\AntiMotionSickness\bin\Release\Newtonsoft.Json.dll
+C:\Users\hoon6\Downloads\GameOverlay.Net-master\source\AntiMotionSickness\bin\Release\SharpDX.dll
+C:\Users\hoon6\Downloads\GameOverlay.Net-master\source\AntiMotionSickness\bin\Release\SharpDX.Direct2D1.dll
+C:\Users\hoon6\Downloads\GameOverlay.Net-master\source\AntiMotionSickness\bin\Release\SharpDX.DXGI.dll
+C:\Users\hoon6\Downloads\GameOverlay.Net-master\source\AntiMotionSickness\bin\Release\GameOverlay.xml
+C:\Users\hoon6\Downloads\GameOverlay.Net-master\source\AntiMotionSickness\bin\Release\Newtonsoft.Json.xml
+C:\Users\hoon6\Downloads\GameOverlay.Net-master\source\AntiMotionSickness\obj\Release\AntiMoti.91F8AFA3.Up2Date
+C:\Users\hoon6\Downloads\GameOverlay.Net-master\source\AntiMotionSickness\obj\Release\AntiMotionSickness.exe
+C:\Users\hoon6\Downloads\GameOverlay.Net-master\source\AntiMotionSickness\obj\Release\AntiMotionSickness.pdb
+C:\Users\hoon6\Desktop\새 폴더\AntiMotionSickness\bin\Release\AntiMotionSickness.exe.config
+C:\Users\hoon6\Desktop\새 폴더\AntiMotionSickness\bin\Release\AntiMotionSickness.exe
+C:\Users\hoon6\Desktop\새 폴더\AntiMotionSickness\bin\Release\AntiMotionSickness.pdb
+C:\Users\hoon6\Desktop\새 폴더\AntiMotionSickness\bin\Release\GameOverlay.dll
+C:\Users\hoon6\Desktop\새 폴더\AntiMotionSickness\bin\Release\Newtonsoft.Json.dll
+C:\Users\hoon6\Desktop\새 폴더\AntiMotionSickness\bin\Release\SharpDX.Direct2D1.dll
+C:\Users\hoon6\Desktop\새 폴더\AntiMotionSickness\bin\Release\SharpDX.dll
+C:\Users\hoon6\Desktop\새 폴더\AntiMotionSickness\bin\Release\SharpDX.DXGI.dll
+C:\Users\hoon6\Desktop\새 폴더\AntiMotionSickness\bin\Release\Newtonsoft.Json.xml
+C:\Users\hoon6\Desktop\새 폴더\AntiMotionSickness\obj\Release\AntiMotionSickness.csproj.AssemblyReference.cache
+C:\Users\hoon6\Desktop\새 폴더\AntiMotionSickness\obj\Release\AntiMotionSickness.Form1.resources
+C:\Users\hoon6\Desktop\새 폴더\AntiMotionSickness\obj\Release\AntiMotionSickness.Properties.Resources.resources
+C:\Users\hoon6\Desktop\새 폴더\AntiMotionSickness\obj\Release\AntiMotionSickness.csproj.GenerateResource.cache
+C:\Users\hoon6\Desktop\새 폴더\AntiMotionSickness\obj\Release\AntiMotionSickness.csproj.CoreCompileInputs.cache
+C:\Users\hoon6\Desktop\새 폴더\AntiMotionSickness\obj\Release\AntiMoti.91F8AFA3.Up2Date
+C:\Users\hoon6\Desktop\새 폴더\AntiMotionSickness\obj\Release\AntiMotionSickness.exe
+C:\Users\hoon6\Desktop\새 폴더\AntiMotionSickness\obj\Release\AntiMotionSickness.pdb
